@@ -23,4 +23,4 @@ By using the extended RoundedImage and RoundedRawImage components, you can achie
 
 * Support the default UI material, facilitating batching operations in the UI system, thereby optimizing the number of DrawCalls.
 
-![image](https://github.com/user-attachments/assets/11d2ed12-43b7-4321-bac2-54c19c166b41)
+![image](https://github.com/user-attachments/assets/8ef0cc3e-7ea9-4659-8006-bca8cd942896)
