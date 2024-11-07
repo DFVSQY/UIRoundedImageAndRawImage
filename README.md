@@ -22,3 +22,5 @@ By using the extended RoundedImage and RoundedRawImage components, you can achie
 * Minimize the alpha channel in textures, which can optimize texture size and runtime memory usage.
 
 * Support the default UI material, facilitating batching operations in the UI system, thereby optimizing the number of DrawCalls.
+
+![image](https://github.com/user-attachments/assets/11d2ed12-43b7-4321-bac2-54c19c166b41)
